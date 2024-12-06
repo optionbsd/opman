@@ -1,0 +1,15 @@
+# License for OPMan
+
+The OPMan package manager, found in the GitHub repository `optionbsd/opman`, is intended for exclusive use on the OptionBSD operating system, which is based on FreeBSD.
+
+By using, copying, or distributing OPMan, you agree to the following terms:
+
+1. **Use Only on OptionBSD**: OPMan is designed and optimized specifically for OptionBSD. It may not function properly or may cause issues if used on other operating systems.
+   
+2. **No Warranty**: OPMan is provided "as-is" without any warranties or guarantees. The author(s) are not responsible for any damages or problems that may arise from the use of this software.
+
+3. **Modification and Redistribution**: You may modify and redistribute OPMan, provided that it is only used with OptionBSD and that any modified versions also adhere to this restriction.
+
+4. **No Commercial Use**: OPMan is not licensed for commercial purposes without prior permission.
+
+By using this software, you agree to the terms above.
